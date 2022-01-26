@@ -39,7 +39,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Global styles={{body: {background: theme.background.body}}} />
-      <Router basename="/react-blog">
+      <Router basename="/react-blog-redux-">
         <Header/>
           <Routes>
             <Route exact path='/' element={<LoginPage />} />
