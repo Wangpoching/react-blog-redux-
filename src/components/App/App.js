@@ -41,7 +41,7 @@ function App() {
       <Global styles={{body: {background: theme.background.body}}} />
       <Router>
         <Header/>
-          <Routes>
+          <Routes basename="/react-blog-redux-">
             <Route exact path='/' element={<LoginPage />} />
             <Route exact path='/register' element={<RegisterPage />} />
             <Route exact path='/reset' element={<ResetPage />} />
