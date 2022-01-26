@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-blog-redux-/static/css/main.412967fc.css",
-    "main.js": "/react-blog-redux-/static/js/main.644a29c7.js",
+    "main.js": "/react-blog-redux-/static/js/main.30c2b415.js",
     "static/media/gossip.svg": "/react-blog-redux-/static/media/gossip.f70a43f11eb1173a269e641c4a18d159.svg",
     "index.html": "/react-blog-redux-/index.html",
     "static/media/github.svg": "/react-blog-redux-/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
@@ -20,10 +20,10 @@
     "static/media/pagination_next_black.svg": "/react-blog-redux-/static/media/pagination_next_black.cc22de2c0f1710a5cce58f0c4ea39e49.svg",
     "static/media/hamburger_black.svg": "/react-blog-redux-/static/media/hamburger_black.9dbc5a3a96ad85a57422263699b1695d.svg",
     "main.412967fc.css.map": "/react-blog-redux-/static/css/main.412967fc.css.map",
-    "main.644a29c7.js.map": "/react-blog-redux-/static/js/main.644a29c7.js.map"
+    "main.30c2b415.js.map": "/react-blog-redux-/static/js/main.30c2b415.js.map"
   },
   "entrypoints": [
     "static/css/main.412967fc.css",
-    "static/js/main.644a29c7.js"
+    "static/js/main.30c2b415.js"
   ]
 }
