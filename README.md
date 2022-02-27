@@ -27,14 +27,9 @@ Can you be the Olympic gold medalist of jibber-jabber?
 * 管理文章
   * Rich editor
   * 防止不小心刪除
-<div>
-<img src="https://github.com/Wangpoching/react-blog-redux-/blob/master/src/images/screenshots/edit.png" width="300" align=center/>
-<img src="https://github.com/Wangpoching/react-blog-redux-/blob/master/src/images/screenshots/delete.png" width="300" align=center/> 
-</div>
 
 * 個人檔案
     * 隨時更改個人資訊
-<img src="https://github.com/Wangpoching/react-blog-redux-/blob/master/src/images/screenshots/selfInfo.png" width="300" align=center/>
 
 * 觀看文章
 
@@ -45,8 +40,6 @@ Can you be the Olympic gold medalist of jibber-jabber?
 
 * 搜尋文章
     * 關鍵字搜尋
-
-<img src="https://github.com/Wangpoching/react-blog-redux-/blob/master/src/images/screenshots/search.png" width="300" align=center/>
 
 ## Contacts
 
