@@ -7,7 +7,7 @@ Can you be the Olympic gold medalist of jibber-jabber?
 
 [立刻成為廢文奧運冠軍 >](https://wangpoching.github.io/react-blog-redux-/home)
 
-## Feature amd Screenshot
+## Feature and Screenshot
 
 * 支援超美白天夜晚模式
 
